@@ -6,10 +6,11 @@
 ### Collectors,
 ### Map,
 ### FlatMap,
-### .....
+...
 
-###![java](java.png)
 :pushpin:
+###![java](java.png)
+
   
 
 ### Langage programming Java:pencil2:
